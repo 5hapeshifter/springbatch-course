@@ -1,0 +1,15 @@
+spring:
+  batch:
+    jdbc:
+      initialize-schema: always
+  application:
+    name: ArquivoLarguraFixaJob
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  datasource:
+    url: jdbc:mysql://localhost:3306/spring_batch?allowPublicKeyRetrieval=true&useSSL=false
+    username: root
+    password: root
+    driver: com.mysql.cj.jdbc.Driver
