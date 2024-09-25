@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/ArquivoDelimitadoJob/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ArquivoLarguraFixaJob/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ArquivoMultiplosFormatos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JdbcCursorEPaginadoReader/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercicio-leitores-spring-batch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/primeiroprojetospringbatch/src/main/java" charset="UTF-8" />
   </component>
 </project>

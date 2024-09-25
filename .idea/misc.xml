@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/ArquivoLarguraFixaJob/pom.xml" />
         <option value="$PROJECT_DIR$/ArquivoDelimitadoJob/pom.xml" />
         <option value="$PROJECT_DIR$/ArquivoMultiplosFormatos/pom.xml" />
+        <option value="$PROJECT_DIR$/JdbcCursorReader/pom.xml" />
+        <option value="$PROJECT_DIR$/exercicio-leitores-spring-batch/pom.xml" />
       </list>
     </option>
   </component>
