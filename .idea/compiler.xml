@@ -9,9 +9,10 @@
         <module name="exercicio-leitores-spring-batch" />
         <module name="JdbcCursorEPaginadoReader" />
         <module name="ArquivoLarguraFixaJob" />
-        <module name="ArquivoMultiplosFormatos" />
         <module name="ArquivoDelimitadoJob" />
         <module name="primeiroprojetospringbatch" />
+        <module name="ProcessadorValidacaoJob" />
+        <module name="ArquivoMultiplosFormatos" />
       </profile>
     </annotationProcessing>
   </component>
@@ -21,6 +22,7 @@
       <module name="ArquivoLarguraFixaJob" options="-parameters" />
       <module name="ArquivoMultiplosFormatos" options="-parameters" />
       <module name="JdbcCursorEPaginadoReader" options="-parameters" />
+      <module name="ProcessadorValidacaoJob" options="-parameters" />
       <module name="exercicio-leitores-spring-batch" options="-parameters" />
       <module name="primeiroprojetospringbatch" options="-parameters" />
     </option>
