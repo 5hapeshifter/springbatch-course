@@ -10,6 +10,10 @@
         <option value="$PROJECT_DIR$/ArquivoMultiplosFormatos/pom.xml" />
         <option value="$PROJECT_DIR$/JdbcCursorReader/pom.xml" />
         <option value="$PROJECT_DIR$/exercicio-leitores-spring-batch/pom.xml" />
+        <option value="$PROJECT_DIR$/JdbcCursorEPaginadoReader/pom.xml" />
+        <option value="$PROJECT_DIR$/ProcessadorValidacaoJob/pom.xml" />
+        <option value="$PROJECT_DIR$/ProcessadorScriptJob/pom.xml" />
+        <option value="$PROJECT_DIR$/ProcessadorClassifierJob/pom.xml" />
       </list>
     </option>
   </component>
