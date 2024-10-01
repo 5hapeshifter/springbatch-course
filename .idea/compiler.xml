@@ -10,8 +10,11 @@
         <module name="JdbcCursorEPaginadoReader" />
         <module name="ArquivoLarguraFixaJob" />
         <module name="ArquivoDelimitadoJob" />
+        <module name="ContasBancariasJob" />
+        <module name="DemonstrativoOrcamentarioJob" />
         <module name="primeiroprojetospringbatch" />
         <module name="ProcessadorValidacaoJob" />
+        <module name="exercicio-processors-spring-batch" />
         <module name="ArquivoMultiplosFormatos" />
         <module name="ProcessadorScriptJob" />
         <module name="ProcessadorClassifierJob" />
@@ -23,11 +26,14 @@
       <module name="ArquivoDelimitadoJob" options="-parameters" />
       <module name="ArquivoLarguraFixaJob" options="-parameters" />
       <module name="ArquivoMultiplosFormatos" options="-parameters" />
+      <module name="ContasBancariasJob" options="-parameters" />
+      <module name="DemonstrativoOrcamentarioJob" options="-parameters" />
       <module name="JdbcCursorEPaginadoReader" options="-parameters" />
       <module name="ProcessadorClassifierJob" options="-parameters" />
       <module name="ProcessadorScriptJob" options="-parameters" />
       <module name="ProcessadorValidacaoJob" options="-parameters" />
       <module name="exercicio-leitores-spring-batch" options="-parameters" />
+      <module name="exercicio-processors-spring-batch" options="-parameters" />
       <module name="primeiroprojetospringbatch" options="-parameters" />
     </option>
   </component>
