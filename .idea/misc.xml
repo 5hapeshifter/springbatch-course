@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/exercicio-processors-spring-batch/pom.xml" />
         <option value="$PROJECT_DIR$/ContasBancariasJob/pom.xml" />
         <option value="$PROJECT_DIR$/DemonstrativoOrcamentarioJob/pom.xml" />
+        <option value="$PROJECT_DIR$/DemonstrativoOrcamentarioMultiArchivesJob/pom.xml" />
       </list>
     </option>
   </component>

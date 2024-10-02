@@ -1,6 +1,6 @@
 
-SISTEMA INTEGRADO: XPTO 				 DATA: 02/10/2024
-MÓDULO: ORÇAMENTO 						 HORA: 10:10
+SISTEMA INTEGRADO: XPTO 				 DATA: 01/10/2024
+MÓDULO: ORÇAMENTO 						 HORA: 17:10
 			DEMONSTRATIVO ORCAMENTARIO
 ----------------------------------------------------------------------------
 CODIGO NOME VALOR

@@ -7,17 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="exercicio-leitores-spring-batch" />
+        <module name="primeiroprojetospringbatch" />
+        <module name="ArquivoMultiplosFormatos" />
+        <module name="ProcessadorClassifierJob" />
         <module name="JdbcCursorEPaginadoReader" />
+        <module name="DemonstrativoOrcamentarioMultiArchivesJob" />
         <module name="ArquivoLarguraFixaJob" />
         <module name="ArquivoDelimitadoJob" />
         <module name="ContasBancariasJob" />
         <module name="DemonstrativoOrcamentarioJob" />
-        <module name="primeiroprojetospringbatch" />
         <module name="ProcessadorValidacaoJob" />
         <module name="exercicio-processors-spring-batch" />
-        <module name="ArquivoMultiplosFormatos" />
         <module name="ProcessadorScriptJob" />
-        <module name="ProcessadorClassifierJob" />
       </profile>
     </annotationProcessing>
   </component>
@@ -28,6 +29,7 @@
       <module name="ArquivoMultiplosFormatos" options="-parameters" />
       <module name="ContasBancariasJob" options="-parameters" />
       <module name="DemonstrativoOrcamentarioJob" options="-parameters" />
+      <module name="DemonstrativoOrcamentarioMultiArchivesJob" options="-parameters" />
       <module name="JdbcCursorEPaginadoReader" options="-parameters" />
       <module name="ProcessadorClassifierJob" options="-parameters" />
       <module name="ProcessadorScriptJob" options="-parameters" />

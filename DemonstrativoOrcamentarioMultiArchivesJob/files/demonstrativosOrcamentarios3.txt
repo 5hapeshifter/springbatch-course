@@ -1,0 +1,16 @@
+
+SISTEMA INTEGRADO: XPTO 				 DATA: 02/10/2024
+MÓDULO: ORÇAMENTO 						 HORA: 10:10
+			DEMONSTRATIVO ORCAMENTARIO
+----------------------------------------------------------------------------
+CODIGO NOME VALOR
+	 Data Descricao Valor
+----------------------------------------------------------------------------
+
+[33903016] MATERIAL DE EXPEDIENTE - $4,000.00
+	 [10/05/2020] Cartucho Impressora - $2,000.00
+	 [01/05/2020] Resma de Papel A4 - $2,000.00
+
+
+							  Total: $4,000.00
+							  Código de Autenticação: fkyew6868fewjfhjjewf
