@@ -8,15 +8,15 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.FileSystemResource;
 
 @Configuration
-public class FileContaWriterConfig {
+public class ClienteInvalidoWriterConfig {
 
     @Bean
-    public FlatFileItemWriter<Conta> clienteValidoWriter() {
+    public FlatFileItemWriter<Conta> clienteInvalidoWriter() {
         return new FlatFileItemWriterBuilder<Conta>()
-                .name("clienteValidoWriter")
-                .resource(new FileSystemResource("./ContasBancariasJob/files/contas.txt"))
+                .name("clienteInvalidoWriter")
+                .resource(new FileSystemResource("./ContasBancariasJob/files/clientesInvalidos.txt"))
                 .delimited()
-                .names("tipo", "limite", "clienteId")
+                .names("clienteId")
                 .build();
     }
 }
